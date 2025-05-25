@@ -1,5 +1,10 @@
 # TELEPHONE-FORMATTER
 TELEPHONE-FORMATTER is a simple and responsive web component that formats telephone numbers as users type. Built using HTML, CSS, and JavaScript, this project enhances user experience by automatically formatting phone numbers in a standard pattern.
+# Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript 
 
 # Project Structure
 ```

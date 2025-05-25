@@ -25,6 +25,9 @@ TELEPHONE-FORMATTER/
 2.Navigate to the project folder:
 
   cd TELEPHONE-FORMATTER
+# License
+This project is open-source and available under the MIT License.
+
 
 
 
